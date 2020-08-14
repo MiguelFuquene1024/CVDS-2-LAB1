@@ -1,6 +1,6 @@
-# Yarit Yajanny Villalobos Jimenez
+# Yarit Yajanny Villalobos 
 
-![](https://github.com/MiguelFuquene1024/CVDS-2-LAB1/tree/master/yarit/images/yarit.jpg)
+<img src="images/yarit.jpg" width="100">
 
 **fecha de nacimiento:** 27 de octubre de 1999\
 **nacionalidad:** Colombia\
