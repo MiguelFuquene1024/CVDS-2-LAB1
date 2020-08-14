@@ -24,7 +24,6 @@ Mi familia esta conformada por:
 
 Mi deporte favorito es el taekwondo, lo entrené durante 7 años, llegue hasta cinturon rojo,
 la academia en la que entrenaba era _Gutierrez Gyeongju_.
-=======
 ##mi vida
 
 *Jugar League of legends
