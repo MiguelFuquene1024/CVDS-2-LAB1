@@ -48,16 +48,16 @@ de software y Automatización de procesos de negocio.
 La lista de mis hobbies son:
 * **Jugar Lol:** Es un videojuego multijugador de arena de batalla en linea tiene diversos personajes
 pero mis 5 favoritos son:
-1. Fizz
-2. Nunu
-3. Blitzcrank
-4. lissandra
-5. skarner
+    1. Fizz
+    2. Nunu
+    3. Blitzcrank
+    4. lissandra
+    5. skarner
 * **Ver animes:** Veo diferentes tipos de anime, normalmente voy rotando el genero, entre mis animes
 favoritos estan:
-1. Swort art online
-2. Los caballeros del zoodiaco
-3. parasyte
-4. akame ga kill
-5. plastic memories
+    1. Swort art online
+    2. Los caballeros del zoodiaco
+    3. parasyte
+    4. akame ga kill
+    5. plastic memories
 * **Entrenar Taekwondo:** Entrenó por mi cuenta en la terraza de mi casa.
