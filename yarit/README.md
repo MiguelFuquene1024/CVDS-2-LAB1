@@ -17,10 +17,10 @@ semestre.
 
 Mi familia esta conformada por:
 
-***papá:** Arturo Villalobos
-***Mama:** Dora Lilia Jimenez Murcia
-***Hermano:** Julian Leonardo Villalobos Jimenez
-***Hermana:** Leidy Carolina Villalobos Jimenez
+* **papá:** Arturo Villalobos
+* **Mama:** Dora Lilia Jimenez Murcia
+* **Hermano:** Julian Leonardo Villalobos Jimenez
+* **Hermana:** Leidy Carolina Villalobos Jimenez
 
 Mi deporte favorito es el taekwondo, lo entrené durante 7 años, llegue hasta cinturon rojo,
 la academia en la que entrenaba era _Gutierrez Gyeongju_.
