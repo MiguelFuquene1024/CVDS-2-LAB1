@@ -24,21 +24,14 @@ Mi familia esta conformada por:
 
 Mi deporte favorito es el taekwondo, lo entrené durante 7 años, llegue hasta cinturon rojo,
 la academia en la que entrenaba era _Gutierrez Gyeongju_.
-##mi vida
+## mi vida
 
 *Jugar League of legends
 *Ver animes
-
-##mi familia
-
-
-
 		
->>>>>>> fd306031d8dde892621af20633e343a409b23063
-
 Mis hobbies son jugar League of legends, ver anime y entrenar taekwondo.
 
-##Familia
+## Familia
 
 Mi hermano Julian tiene 22 años, el esta estudiando ingenieria electronica en la Universidad Nacional,
 va en noveno semestre sus hobbies son investigar sobre diversas cosas que creé que le puede servir
@@ -59,18 +52,18 @@ Estoy en octavo semestre actualmente estoy viendo Redes de computadores, Ciclos 
 de software y Automatización de procesos de negocio.
 ##Hobbies 
 La lista de mis hobbies son:
-***Jugar Lol:** Es un videojuego multijugador de arena de batalla en linea tiene diversos personajes
+* **Jugar Lol:** Es un videojuego multijugador de arena de batalla en linea tiene diversos personajes
 pero mis 5 favoritos son:
 1.Fizz
 2.Nunu
 3.Blitzcrank
 4.lissandra
 5.skarner
-***Ver animes:** Veo diferentes tipos de anime, normalmente voy rotando el genero, entre mis animes
+* **Ver animes:** Veo diferentes tipos de anime, normalmente voy rotando el genero, entre mis animes
 favoritos estan:
 1.Swort art online
 2.Los caballeros del zoodiaco
 3.parasyte
 4.akame ga kill
 5.plastic memories
-***Entrenar Taekwondo:** Entrenó por mi cuenta en la terraza de mi casa.
+* **Entrenar Taekwondo:** Entrenó por mi cuenta en la terraza de mi casa.
