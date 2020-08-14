@@ -1,6 +1,6 @@
 # Yarit Yajanny Villalobos Jimenez
 
-![] (https://github.com/MiguelFuquene1024/CVDS-2-LAB1/tree/master/yarit/images/yarit.jpg)
+![](https://github.com/MiguelFuquene1024/CVDS-2-LAB1/tree/master/yarit/images/yarit.jpg)
 
 >**fecha de nacimiento:** 27 de octubre de 1999\
 **nacionalidad:** Colombia\
@@ -9,17 +9,16 @@
 **Carrera:** Ingenieria de Sistemas\
 **semestre:** Octavo
 
+##mi vida
+
+*Jugar League of legends
+*Ver animes
+
+##mi familia
 
 
-familia:
-		*Padre: Julian Leonardo Villalobos Jimenez
-		*Madre: Dora Lilia Jimenez Murcia
-		*Hermana: Leidy Carolina Villalobos Jimenez
-		*Hermano: Julian Leonardo Villalobos Jimenez
 
-Hobbies:
-		*Jugar League of legends
-		*Ver animes
+		
 
 
 		
