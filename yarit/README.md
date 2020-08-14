@@ -1,6 +1,6 @@
 # Yarit Yajanny Villalobos 
 
-<img src="images/yarit.jpg" width="100">
+<img src="images/yarit.jpg" width="150">
 
 **fecha de nacimiento:** 27 de octubre de 1999\
 **nacionalidad:** Colombia\
@@ -62,10 +62,13 @@ favoritos estan:
     5. plastic memories
 * **Entrenar Taekwondo:** Entrenó por mi cuenta en la terraza de mi casa.
 
-##Pruebas 
+## Pruebas 
 
-*Main
+* Main
+
 <img src="images/Captura%20de%20pantalla%20(287).png" width="300">
-*Remote
+
+* Remote
+
 <img src="images/Captura%20de%20pantalla%20(293).png" width="300">
 
