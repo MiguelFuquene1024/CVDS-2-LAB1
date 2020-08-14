@@ -9,6 +9,7 @@
 **Carrera:** Ingenieria de Sistemas\
 **semestre:** Octavo
 
+<<<<<<< HEAD
 Mi nombre es Yarit villalobos nací el 27 de octubre de 1999, estudie la primaria
 en el colegio Policarpa Salavarrieta, mi bachillerato en el Instituto Salesiano
 San Jose De Mosquera, actualmente estoy haciendo un pregrado de Ingenieria de
@@ -24,6 +25,18 @@ Mi familia esta conformada por:
 
 Mi deporte favorito es el taekwondo, lo entrené durante 7 años, llegue hasta cinturon rojo,
 la academia en la que entrenaba era _Gutierrez Gyeongju_.
+=======
+##mi vida
+
+*Jugar League of legends
+*Ver animes
+
+##mi familia
+
+
+
+		
+>>>>>>> fd306031d8dde892621af20633e343a409b23063
 
 Mis hobbies son jugar League of legends, ver anime y entrenar taekwondo.
 
