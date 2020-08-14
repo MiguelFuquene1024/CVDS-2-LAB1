@@ -24,12 +24,6 @@ Mi familia esta conformada por:
 
 Mi deporte favorito es el taekwondo, lo entrené durante 7 años, llegue hasta cinturon rojo,
 la academia en la que entrenaba era _Gutierrez Gyeongju_.
-## mi vida
-
-*Jugar League of legends
-*Ver animes
-		
-Mis hobbies son jugar League of legends, ver anime y entrenar taekwondo.
 
 ## Familia
 
@@ -47,10 +41,10 @@ y compartir con la familia.
 Mi papá trabaja como supervisor de la empresa Super Ricas, Al igual que mi mamá es bachiller pero de
 un colegio de Bogotá, sus Hobbies son ver peliculas y arreglar cosas.
 
-##Universidad
+## Universidad
 Estoy en octavo semestre actualmente estoy viendo Redes de computadores, Ciclos de vida del desarrollo
 de software y Automatización de procesos de negocio.
-##Hobbies 
+## Hobbies 
 La lista de mis hobbies son:
 * **Jugar Lol:** Es un videojuego multijugador de arena de batalla en linea tiene diversos personajes
 pero mis 5 favoritos son:
