@@ -9,7 +9,6 @@
 **Carrera:** Ingenieria de Sistemas\
 **semestre:** Octavo
 
-<<<<<<< HEAD
 Mi nombre es Yarit villalobos nací el 27 de octubre de 1999, estudie la primaria
 en el colegio Policarpa Salavarrieta, mi bachillerato en el Instituto Salesiano
 San Jose De Mosquera, actualmente estoy haciendo un pregrado de Ingenieria de
