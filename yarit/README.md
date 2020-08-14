@@ -61,3 +61,11 @@ favoritos estan:
     4. akame ga kill
     5. plastic memories
 * **Entrenar Taekwondo:** Entrenó por mi cuenta en la terraza de mi casa.
+
+##Pruebas 
+
+*Main
+<img src="images/Captura%20de%20pantalla%20(287).png" width="300">
+*Remote
+<img src="images/Captura%20de%20pantalla%20(293).png" width="300">
+
