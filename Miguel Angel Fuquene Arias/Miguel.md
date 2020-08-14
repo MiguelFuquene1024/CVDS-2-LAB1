@@ -18,7 +18,7 @@
 * Me gustan los deportes, en especia futbol y natación
 
 
-*¿Quien es el que siempre gurrea? `print("Johann Cepeda")`
+*¿Quien es el que siempre gurrea? `print("Johann Cepeda");`
 
 
 > **Cuenta LoL**
