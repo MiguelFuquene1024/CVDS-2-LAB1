@@ -1,14 +1,14 @@
 # Yarit Yajanny Villalobos Jimenez
 
 ![](https://github.com/MiguelFuquene1024/CVDS-2-LAB1/tree/master/yarit/images/yarit.jpg)
-```
+
 **fecha de nacimiento:** 27 de octubre de 1999\
 **nacionalidad:** Colombia\
 **Ocupación:** Estudiante\
 **Universidad:** Escuela colombiana de ingenieria Julio Garavito\
 **Carrera:** Ingenieria de Sistemas\
 **semestre:** Octavo
-```
+
 Mi nombre es Yarit villalobos nací el 27 de octubre de 1999, estudie la primaria
 en el colegio Policarpa Salavarrieta, mi bachillerato en el Instituto Salesiano
 San Jose De Mosquera, actualmente estoy haciendo un pregrado de Ingenieria de
