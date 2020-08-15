@@ -42,3 +42,16 @@ Ocho pasos para alcanzar el éxito
 ![](https://github.com/MiguelFuquene1024/CVDS-2-LAB1/blob/master/Miguel%20Angel%20Fuquene%20Arias/images/Plan%20de%20estudios.png)
 
 
+# GIT Branching
+
+## Ejercicios Git Main 
+
+
+![](https://github.com/MiguelFuquene1024/CVDS-2-LAB1/blob/master/Miguel%20Angel%20Fuquene%20Arias/images/Ejercicios%20Git%20Main.png)
+
+
+## Ejercicios Git Remote
+
+
+![](https://github.com/MiguelFuquene1024/CVDS-2-LAB1/blob/master/Miguel%20Angel%20Fuquene%20Arias/images/Ejercicios%20Git%20Remote.png)
+
